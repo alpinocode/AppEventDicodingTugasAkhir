@@ -38,7 +38,7 @@ Navigation Component
 
 Clone the Repository
 
-git clone https://github.com/username/repository-name.git
+git clone [[https://github.com/username/repository-name.git](https://github.com/alpinocode/AppEventDicodingTugasAkhir)](https://github.com/alpinocode/AppEventDicodingTugasAkhir/)
 cd repository-name
 
 Open in Android Studio
