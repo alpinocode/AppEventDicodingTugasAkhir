@@ -34,6 +34,8 @@ RecyclerView
 
 Navigation Component
 
+Lottie
+
 📦 Installation & Running the App
 
 Clone the Repository
