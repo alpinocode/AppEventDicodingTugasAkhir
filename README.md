@@ -4,56 +4,19 @@ Event App UI - Dicoding
 
 Event App UI is an application designed to display event lists categorized as Upcoming, Finished, and Favorite. This app also provides settings and event detail features.
 
-📷 Screenshots
-
-1. Upcoming Events
-  <br/>
- ![Screenshot 2025-03-09 202854](https://github.com/user-attachments/assets/17912cde-2b33-4afc-8a07-13bd6e7ecf77)
-
+📷 Preview App
+| Upcoming Events | Finished Events | Favorite Events |
+| --------------- | --------------- | ---------------- |
+| ![Screenshot 2025-03-09 202854](https://github.com/user-attachments/assets/17912cde-2b33-4afc-8a07-13bd6e7ecf77) | ![Screenshot 2025-03-09 202903](https://github.com/user-attachments/assets/7247ba32-df72-4756-8f7a-32ac2f27981b) |  ![Screenshot 2025-03-09 202911](https://github.com/user-attachments/assets/00925d05-f4ef-4cfe-ad1b-a4e19bd87f7e)
 
 
+| Settings | Settings with Notifications | Dark Mode | 
+| --------------- | --------------- | ---------------- |
+| ![Screenshot 2025-03-09 202929](https://github.com/user-attachments/assets/e4dc1370-8cbb-4855-a2ba-cbf94ba072f7) |   ![Screenshot 2025-03-09 202939](https://github.com/user-attachments/assets/9285bf00-84f9-4a04-97cb-fa8cded26faa) |  ![Screenshot 2025-03-09 202958](https://github.com/user-attachments/assets/b47e18d8-2e61-459f-8e64-646c6af770ed)
 
-2. Finished Events
-  <br/>
-  ![Screenshot 2025-03-09 202903](https://github.com/user-attachments/assets/7247ba32-df72-4756-8f7a-32ac2f27981b)
-
-
-3. Favorite Events
-  <br/>
-  ![Screenshot 2025-03-09 202911](https://github.com/user-attachments/assets/00925d05-f4ef-4cfe-ad1b-a4e19bd87f7e)
-
-
-
-4. Pengaturan
-  <br/>
-  ![Screenshot 2025-03-09 202929](https://github.com/user-attachments/assets/e4dc1370-8cbb-4855-a2ba-cbf94ba072f7)
-
-
-
-
-5. Settings with Notifications
-    <br/>
-  ![Screenshot 2025-03-09 202939](https://github.com/user-attachments/assets/9285bf00-84f9-4a04-97cb-fa8cded26faa)
-
-
-
-6. Dark Mode
-  <br/>
-  ![Screenshot 2025-03-09 202958](https://github.com/user-attachments/assets/b47e18d8-2e61-459f-8e64-646c6af770ed)
-
-  
-
-7. Detail Event
-   <br/>
-![Screenshot 2025-03-09 202323](https://github.com/user-attachments/assets/79cbd546-f59a-4eeb-84a1-d6572bb573f0)
-
-
-
-8. Detail Favorite Event
-   <br/>
-![Screenshot 2025-03-09 202103](https://github.com/user-attachments/assets/90901aad-44a3-4219-85fd-181534e2ea89)
-
-
+| Detail Event | Detail Favorite Event | 
+| --------------- | --------------- |
+| ![Screenshot 2025-03-09 202323](https://github.com/user-attachments/assets/79cbd546-f59a-4eeb-84a1-d6572bb573f0) | ![Screenshot 2025-03-09 202103](https://github.com/user-attachments/assets/90901aad-44a3-4219-85fd-181534e2ea89)
 
 🚀 Main Features
 
