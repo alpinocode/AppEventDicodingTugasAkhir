@@ -77,7 +77,7 @@ This project is licensed under the MIT License.
 
 ✨ Contact & Information
 
-📧 Email: alfinohasan@gmail.com🔗 LinkedIn: Alfino Hasan
+📧 Email: alfinohasan@gmail.com🔗 LinkedIn: Alfino Hasan - https://www.linkedin.com/in/alfino-hasan-523418358/
 
 For any questions or suggestions, feel free to reach out! 🚀
 
